@@ -9,7 +9,7 @@ for (var i = 0; i < chaine.length; i++) {
     }
 }
 if (x !== o) {
-    console.log("Faux");
-} else {
     console.log("Vrai");
+} else {
+    console.log("Faux");
 }
